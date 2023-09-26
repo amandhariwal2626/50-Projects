@@ -110,6 +110,10 @@ nav ul li + li + li {
     transform: translateX(-200%);
 }
 
+img{
+    height: 320px;
+}
+
 .content img{
     max-width: 100%;
 }
